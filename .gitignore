@@ -1,0 +1,6 @@
+mousekeep.new.exe
+.zig-cache/
+zig-out/
+*.pdb
+*.obj
+*.o
